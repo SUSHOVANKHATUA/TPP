@@ -1,6 +1,6 @@
 # Different Types of data sets are available 
 
-# Distance_Matrix,  represents the multipath (3 routes consider) distances between the  markets
+# Distance_Matrix,  represents the multipath (3 routes considered) distances between the  markets
 
 # Market Information, Availabilities,  and price are predetermined with different settings
 
